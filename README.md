@@ -40,3 +40,7 @@ Dataset berasal dari [***Kaggle***](https://www.kaggle.com/datasets/arjunbhasin2
 
 ![Untitled](https://github.com/PurwadhikaDev/EnigmaGroup_JC_DS_FT_JKT_19_FinalProject/assets/113419733/0bc74d4c-a61a-48ac-851c-7c9d8a16850b)
 
+# K-Means Clustering
+
+![Untitled2](https://github.com/PurwadhikaDev/EnigmaGroup_JC_DS_FT_JKT_19_FinalProject/assets/113419733/ce08bb2c-07aa-4a8e-92a4-08d155c30adb)
+
