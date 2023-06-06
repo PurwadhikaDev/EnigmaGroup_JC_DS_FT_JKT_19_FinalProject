@@ -31,3 +31,9 @@ Karena metode yang digunakan adalah *clustering* maka metrik evaluasi yang digua
 
 * ***Silhouette Coefficient*** (mengukur seberapa baik sample dengan kelompoknya sendiri dibandingkan kelompok lain)
 * ***Elbow Method*** (menemukan jumlah kelompok optimal pada data)
+
+# 2. Data Understanding  
+
+Dataset berasal dari [***Kaggle***](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata/discussion/169386) adalah dataset riwayat transaksi **nasabah** kartu kredit yang **aktif** melakukan transaksi selama **6 bulan terakhir** atau ***subscribe*** kartu kreditnya **6- 12 bulan**. 
+* Dataset berisi **8950** riwayat transaksi pembelian dan pembayaran dengan diwakili **18 fitur** dari masing-masing nasabah kartu kredit selama 6 bulan.
+* **Setiap baris** dari dataset merepresentasikan **riwayat transaksi satu nasabah** kartu kredit.
