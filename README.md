@@ -38,4 +38,5 @@ Dataset berasal dari [***Kaggle***](https://www.kaggle.com/datasets/arjunbhasin2
 * Dataset berisi **8950** riwayat transaksi pembelian dan pembayaran dengan diwakili **18 fitur** dari masing-masing nasabah kartu kredit selama 6 bulan.
 * **Setiap baris** dari dataset merepresentasikan **riwayat transaksi satu nasabah** kartu kredit.
 
-![Untitled.jpg](attachment:Untitled.jpg)
+![Untitled](https://github.com/PurwadhikaDev/EnigmaGroup_JC_DS_FT_JKT_19_FinalProject/assets/113419733/0bc74d4c-a61a-48ac-851c-7c9d8a16850b)
+
